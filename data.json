@@ -1,0 +1,18 @@
+{
+    "Nagpur": {
+        "apples": 2,
+        "oranges": 3
+    },
+    "Italy": {
+        "apples": 1,
+        "oranges": 4
+    },
+    "Pune": {
+        "apples": 0,
+        "oranges": 5
+    },
+    "India": {
+        "apples": 1,
+        "oranges": 6
+    }
+}
